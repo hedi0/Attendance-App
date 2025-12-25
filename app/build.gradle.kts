@@ -38,7 +38,7 @@ dependencies {
     //implementation mt3 splashActivity
     implementation("androidx.core:core-splashscreen:1.0.1")
     implementation("com.airbnb.android:lottie:6.0.0")
-
+ 
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
