@@ -5,7 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
     <include
         android:id="@+id/toolbarMain"
         layout="@layout/toolbar" />
@@ -25,13 +24,11 @@
         app:borderWidth="0dp"
         app:maxImageSize="32dp"
         app:tint="@color/white" />
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/toolbarMain">
-
     </androidx.recyclerview.widget.RecyclerView>
 
 </RelativeLayout>
