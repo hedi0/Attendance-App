@@ -2,7 +2,7 @@
 
 A robust and intuitive Java-based application for efficient attendance tracking and management.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license/Attendance-App-green) ![Stars](https://img.shields.io/github/stars/hedi0/Attendance-App?style=social) ![Forks](https://img.shields.io/github/forks/hedi0/Attendance-App?style=social)
+![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license/AttendanceApp-green) ![Stars](https://img.shields.io/github/stars/hedi0/Attendance-App?style=social) ![Forks](https://img.shields.io/github/forks/hedi0/Attendance-App?style=social)
 
 ![example-preview-image](/preview_example.png)
 
@@ -106,18 +106,16 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more detai
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+Permission is hereby granted, free of charge, to any person obtainincopy
+of this software and associated documentation files (the "Software"),eal
+in the Software without restriction, including without limitation rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/o sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the fo
-The above copyright notice and this permission notice shall be included in all
+The above copyright notice and this permission notice shall be ed in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, ERESS OR
+IMPLIED, SE AND NONINFRINGEMENT. IN NO EVENT SHALL Y CLAIM,AGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHEISE,RISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOF
