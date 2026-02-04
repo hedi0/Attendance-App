@@ -98,13 +98,13 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
     1.  Fork the repository and create your branch from `main`.
     2.  Ensure your code adheres to the existing style.
     3.  Write clear, concise commit messages.
-    4.  Open a pull request (PR) against the `main` branch.
-    5.  Provide a detailed description of your changes in the PR.
-*   **Testing Requirements:** All new features or bug fixes should be accompanied by appropriate unit and/or integration tests to ensure stability and prevent regressions.
+    4.  Open a pull request (PR branch.
+    5.  Provide a detailof your changes in the PR.
+*   **Testing Requirements:** All new features or bug fixration tests to gressions.
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more detai
+This project is licensebjhvjjyb u MIT License. See [LICENSE](LICENSE)tai
 
 Permission is hereby granted, free of charge, to any person obtainincopy
 of this software and associated documentation files (the "Software"),eal
