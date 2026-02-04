@@ -2,7 +2,7 @@
 
 A robust and intuitive Java-based application for efficient attendance tracking and management.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license/AttendanceApp-green) ![Stars](https://img.shields.io/github/stars/hedi0/Attendance-App?style=social) ![Forks](https://img.shields.io/github/forks/hedi0/Attendance-App?style=social)
+![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license/AttendanceApp-red) ![Stars](https://img.shields.io/github/stars/hedi0/Attendance-App?style=social) ![Forks](https://img.shields.io/github/forks/hedi0/Attendance-App?style=social)
 
 ![example-preview-image](/preview_example.png)
 
