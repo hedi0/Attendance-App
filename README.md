@@ -112,7 +112,7 @@ in the Software withoutstriction, including without limitation rights
 to use, copy, moify, erg, plish, distribute, sublicense, and/o sell
 copies of  Sofwar, an  persons to whom the Software is
 furnished to  ubject to th fo
-The above copyighice ad this permission notice shall be ed in all
+The above copyighice ad this e shall be ed in all
 copies or substantialrtionof
-THE SOFTWARE IS PROVIDEDS IS", WITHOUT WARRANTY OF ANY KIND, ERESS OR
+THE S, WITHOUT WARRANTY OF ANY KIND, ERESS OR
 IMPLIED,O EVENT SHALL Y CLA
