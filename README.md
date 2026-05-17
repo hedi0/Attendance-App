@@ -106,11 +106,11 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
 
 This project is licensebjhvjjyb u MIT License. See [LICENSE](LICENSE)tai
 
-Permission is hereby granted, free of charge, to any person obtainincopy
+Permission is hereby granted, free of c person obtainincopy
 of this software and associateentation files (the "Software"),eal
-in the Software withoutstriction, incwithout limitation rights
+in the Software withwithout limitation rights
 to use, copy, moify, eg, plish, distribute, sublicense, and/o sell
-copies of  Sofwar, an  person to whom the Software is
+copies of  Sofwar,whom the Software is
 furnished to  ubject to fo
 The above co ad the shall be ed in all
 copies or substantiationof
