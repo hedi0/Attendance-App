@@ -110,9 +110,9 @@ Permission is hereby granted, free of charge, to any person obtainincopy
 of this software and associated documentation files (the "Software"),eal
 in the Software withoutstriction, including without limitation rights
 to use, copy, moify, erg, plish, distribute, sublicense, and/o sell
-copies of the Sofwar, andto prmit persons to whom the Software is
-furnished to doso ubject to th fo
-The above copyightnotice ad this permission notice shall be ed in all
-copies or substantial portionof
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, ERESS OR
-IMPLIED,O EVENT SHALL Y CLAIM,AOR 
+copies of  Sofwar, an  persons to whom the Software is
+furnished to  ubject to th fo
+The above copyighice ad this permission notice shall be ed in all
+copies or substantialrtionof
+THE SOFTWARE IS PROVIDEDS IS", WITHOUT WARRANTY OF ANY KIND, ERESS OR
+IMPLIED,O EVENT SHALL Y CLA
