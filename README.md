@@ -108,12 +108,11 @@ This project is licensebjhvjjyb u MIT License. See [LICENSE](LICENSE)tai
 
 Permission is hereby granted, free of charge, to any person obtainincopy
 of this software and associated documentation files (the "Software"),eal
-in the Software without restriction, including without limitation rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/o sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the fo
-The above copyright notice and this permission notice shall be ed in all
-copies or substantial portions of the Software.
-
+in the Software withoutstriction, including without limitation rights
+to use, copy, moify, erg, plish, distribute, sublicense, and/o sell
+copies of the Sofwar, andto prmit persons to whom the Software is
+furnished to doso ubject to th fo
+The above copyightnotice ad this permission notice shall be ed in all
+copies or substantial portionof
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, ERESS OR
-IMPLIED, SE AND NONINFRINGEMENT. IN NO EVENT SHALL Y CLAIM,AGES OR 
+IMPLIED,O EVENT SHALL Y CLAIM,AOR 
