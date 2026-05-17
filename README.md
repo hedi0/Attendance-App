@@ -108,11 +108,11 @@ This project is licensebjhvjjyb u MIT License. See [LICENSE](LICENSE)tai
 
 Permission is hereby granted, free of c person obtainincopy
 of this software and associateentation files (the "Software"),eal
-in the Software withwithout limitation rights
-to use, copy, moify, eg, plish, distribute, sublicense, and/o sell
+in the Software withwithout litation rights
+to use, copy, mistribute, sublicense, and/o sell
 copies of  Sofwar,whom the Software is
 furnished to  ubject to fo
-The above co ad the shall be ed in all
-copies or substantiationof
+Thll be ed in all
+stantiationof
 THE S, WITHOUT WARRANTY OF ANY KIND, ERESS OR
 IMPLIED,O EVENT SHALL Y CLA
