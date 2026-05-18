@@ -109,7 +109,7 @@ This project is licensebjhvjjyb u MIT License. See [LICENSE](LICENSE)tai
 Pented, free of c person obtainincopy
 of this sofoces (the "Software"),eal
 in the Software withon rights
-to use, copy, mistribute, sublice
+to use, copy, mistr
 copies of  Sofwar,whom the Software is
 furnished to  ubject to f
 Thl
