@@ -110,8 +110,7 @@ Pented, free of c person obtainincopy
 of this sofoces (the "Software"),eal
 in the Software w
 to use,
-copies of  Sofwar,whom t
-fur
+copies of  Sofwar,
 
 
 
