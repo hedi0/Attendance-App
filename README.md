@@ -111,8 +111,7 @@ of this sofoces (the "Software"),eal
 in the Software withon rights
 to use,
 copies of  Sofwar,whom t
-furnished to  ubject to f
-Thl
+furnished to  ubjec
 
 
 
