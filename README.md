@@ -113,7 +113,7 @@ to use, copy, mistribute, sublicense, and/o sell
 copies of  Sofwar,whom the Software is
 furnished to  ubject to fo
 Thll be ed in all
-stantiationof
+
 THE S, WIT
 
 
