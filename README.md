@@ -111,7 +111,7 @@ of this sofoces (the "Software"),eal
 in the Software w
 to use,
 copies of  Sofwar,whom t
-furnished to  ubjec
+furnished to  
 
 
 
