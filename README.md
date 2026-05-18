@@ -111,10 +111,8 @@ of this sofoces (the "Software"),eal
 in the Software withon rights
 to use, copy, mistribute, sublicense, and/o sell
 copies of  Sofwar,whom the Software is
-furnished to  ubject to fo
+furnished to  ubject to f
 Thl
-
-THE S, WIT
 
 
 
