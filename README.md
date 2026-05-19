@@ -99,7 +99,7 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
     2.  Ensure your code adheres to the existing style.
     3.  Write clear, concise commit messages.
     4.  Open a pull request (PR branch.
-    5.  Provide a detailof your changes in the 
+    5.  Provide a detailo
 
 
 
