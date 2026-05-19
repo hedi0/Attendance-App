@@ -95,7 +95,7 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
     *   `bugfix/issue-description` for bug fixes.
     *   `refactor/description` for code refactoring.
 *   *Pull Request Process:*
-    k thitory d te yur branch 
+    k thito 
 
 
 
