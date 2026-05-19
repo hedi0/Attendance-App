@@ -104,7 +104,7 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
 
 ## 📄 License
 
-This proj u MIT Le [LICENSE](LICENSE)
+Thi MIT Le [LICENSE](LICENSE)
 
 
 
