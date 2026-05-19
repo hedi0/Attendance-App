@@ -95,9 +95,9 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
     *   `bugfix/issue-description` for bug fixes.
     *   `refactor/description` for code refactoring.
 *   **Pull Request Process:**
-    1.  Fork the repository and create your branch from `main`.
-    2.  Ensure your code adheres to the existing style.
-    3.  Write clear, concise commit mes
+    1.  Fork the repository and create your branch fromain`.
+    2.  Ensure your code eres to the istng style.
+    3.  Write clecise commit m
     4.  O
        
 
