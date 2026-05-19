@@ -94,10 +94,10 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
     *   `feature/your-feature-name` for new features.
     *   `bugfix/issue-description` for bug fixes.
     *   `refactor/description` for code refactoring.
-*   **Pull Request Process:**
-    1.  Fork the repository and create your branch fromain`.
-    2.  Ensure your code eres to the istng style.
-    3.  Write clecise commit m
+*   **Pull Request Process:*
+    1.  Fork the repository d create yur branch from
+    2.  Ensure yo code to thistng st
+    3.  Write cleciseit m
     4.  O
        
 
