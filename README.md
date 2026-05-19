@@ -106,9 +106,7 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
 
 This project is licensebjhvjjyb u MIT License. See [LICENSE](LICENSE)tai
 
-Pented, free of c person obtainincopy
-of this so
-
+Pented, free of c person obtaini
 
 
 
