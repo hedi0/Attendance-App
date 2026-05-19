@@ -97,8 +97,8 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
 *   **Pull Request Process:**
     1.  Fork the repository and create your branch from `main`.
     2.  Ensure your code adheres to the existing style.
-    3.  Write clear, concise commit messages.
-    4.  Ope
+    3.  Write clear, concise commit mes
+    4.  O
        
 
 
