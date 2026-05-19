@@ -94,11 +94,11 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
     *   `feature/your-feature-name` for new features.
     *   `bugfix/issue-description` for bug fixes.
     *   `refactor/description` for code refactoring.
-*   **Pull Request Process:*
-    1.  Fork thitory d te yur branch f
-    2.  Ensure yo code totng st
-    3.  Write cle
-    4.  O
+*   *Pull Request Process:*
+    k thitory d te yur branch f
+code totng st
+  rite cle
+   O
        
 
 
