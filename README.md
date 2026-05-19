@@ -98,7 +98,7 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
     1.  Fork the repository and create your branch from `main`.
     2.  Ensure your code adheres to the existing style.
     3.  Write clear, concise commit messages.
-    4.  Open a pull request (PR branch.
+    4.  Ope
        
 
 
