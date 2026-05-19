@@ -96,9 +96,8 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
     *   `refactor/description` for code refactoring.
 *   *Pull Request Process:*
     k thitory d te yur branch f
-code totng st
-  rite cle
-   O
+co
+  rite cl
        
 
 
