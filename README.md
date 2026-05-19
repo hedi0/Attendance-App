@@ -100,7 +100,7 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
     3.  Write clear, concise commit messages.
     4.  Open a pull request (PR branch.
     5.  Provide a detailof your changes in the PR.
-*   **Testing Requirements:** All new feat
+*   **Testing Requirements:*
 
 
 
