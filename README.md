@@ -101,20 +101,3 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
     4.  Open a pull request (PR branch.
     5.  Provide a detailof your changes in the PR.
 *   **Testing Requirements:** All new features or bug fixration tests to gressions.
-
-## 📄 License
-
-Thi MIT Le [LI
-
-
-
-
-
-
-
-
-
-
-
-
-
