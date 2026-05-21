@@ -89,9 +89,8 @@ The Attendance-App is continuously evolving. Here's what's planned for future re
 
 We welcome contributions to the Attendance-App! To ensure a smooth collaboration, please follow these guidelines:
 
-*   **Code Style:** Adhere to standard Java coding conventions (e.g., Google Java Format or Oracle Code Conventions). Maintain clear, concise, and well-documented code.
-*   **Branch Naming:**
-
+*   **Code Style:** Adhere to standJava coding conventions (e.g., Google Java Format or Oracle Code Conventions). Maintain clear, cose, and well-docted code.
+*   **Branch Na
 
 
 
