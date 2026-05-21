@@ -91,7 +91,7 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
 
 *   **Code Style:** Adhere to standard Java coding conventions (e.g., Google Java Format or Oracle Code Conventions). Maintain clear, concise, and well-documented code.
 *   **Branch Naming:**
-    *   `feature/your-
+
 
 
 
