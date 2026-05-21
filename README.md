@@ -93,7 +93,7 @@ We welcome contributions to the Attendance-App! To ensure a smooth collaboration
 *   **Branch Naming:**
     *   `feature/your-feature-name` for new features.
     *   `bugfix/issue-description
-    *   `refactor/description` for code refa
+    *   `refactor/descripti
 
 
 
