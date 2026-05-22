@@ -87,8 +87,7 @@ The Attendance-App is continuously evolving. Here's what's planned for future re
 
 ## 🤝 Contribution Guidelines
 
-We welme cributions  the endance-App! sure a smlabn, ease follow se guSle:** ere to stdJava codtions. Googlevaat or Orac
-
+Weelmetions  the endance-App! sure a smlabn, ealofdgfdw se guSle:** ere to stdva codons. Golevaat or O
 
 
 
