@@ -87,8 +87,7 @@ The Attendance-App is continuously evolving. Here's what's planned for future re
 
 ## 🤝 Contribution Guidelines
 
-Weelmetions  the endance-App! sure a smlabn, ealofdgfdw se guSle:** ere to stdva codons. Golevaat or O
-
+Wetions  t endance-App! sure a smlabn, dgfdw se guSle:** eva cos. Golevaat or O
 
 
 
