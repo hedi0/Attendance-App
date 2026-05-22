@@ -84,8 +84,3 @@ The Attendance-App is continuously evolving. Here's what's planned for future re
 *   **Future Enhancements:**
     *   Advanced analytics and visualization of attendance trends.
     *   Mobile application support.
-
-
-
-
-esdgsddg
