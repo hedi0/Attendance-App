@@ -85,9 +85,8 @@ The Attendance-App is continuously evolving. Here's what's planned for future re
     *   Advanced analytics and visualization of attendance trends.
     *   Mobile application support.
 
-## 🤝 Contribution Guidelines
-
-Wetions  t endance-App! sure a smlabn, dgfdw se guSle:** eva cos. Golevaat or O
+## 🤝 Contribution Guideline
+Wens  t enan-Appure alabn, fdw se guSle:** eva cosaat or O
 
 
 
