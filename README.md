@@ -86,7 +86,7 @@ The Attendance-App is continuously evolving. Here's what's planned for future re
     *   Mobile application support.
 
 ## 🤝 ibution 
-Wen t en alabn,
+Wen t e
 
 
 
