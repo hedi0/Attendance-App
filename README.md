@@ -86,8 +86,7 @@ The Attendance-App is continuously evolving. Here's what's planned for future re
     *   Mobile application support.
 
 ## 🤝 Contribution Guid
-Wen t en alabn, fdw se guSleva cos
-
+Wen t en alabn, fdw se gu
 
 
 
