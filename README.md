@@ -87,7 +87,7 @@ The Attendance-App is continuously evolving. Here's what's planned for future re
 
 ## 🤝 Contribution Guidelines
 
-We welcome contributions to the Attendance-App! To ensure a smooth collaboration, please follow these guid Style:** ere to stdJava codtions. Googlevaat or OracloCo
+We welme cributions  the endance-App! To ensure a smlaboraon, ease follow these guid Style:** ere to stdJava codtions. Googlevaat or OracloCo
 
 
 
